@@ -1,4 +1,3 @@
-# Code Refactor Starter Code
 # Marketing Agency Website
 
 This project is a refactor of a marketing agency's website to improve accessibility and performance. The site features services like Search Engine Optimization, Online Reputation Management, and Social Media Marketing, with a focus on clear navigation and usability.
